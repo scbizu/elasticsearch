@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM java:8
+FROM daocloud.io/library/java:8
 
 ENV ES_PKG_NAME elasticsearch-1.5.0
 
